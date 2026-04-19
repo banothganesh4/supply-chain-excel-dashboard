@@ -5,7 +5,7 @@ Supply Chain Inventory Optimization &amp; Disruption Analysis using Excel Dashbo
 
 ---
 
-## 🧠 Project Summary  
+## 🧠Project Summary  
 
 Modern supply chains are complex and highly sensitive to disruptions.  
 This project analyzes **inventory performance, supplier delays, and demand forecasting gaps** using Microsoft Excel to deliver **actionable business insights**.  
