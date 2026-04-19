@@ -1,11 +1,11 @@
 # supply-chain-excel-dashboard
 Supply Chain Inventory Optimization &amp; Disruption Analysis using Excel Dashboard
 # 📊 Supply Chain Inventory Optimization & Disruption Analysis  
-### 🚀 End-to-End Excel Data Analytics Project  
+End-to-End Excel Data Analytics Project  
 
 ---
 
-## 🧠Project Summary  
+Project Summary  
 
 Modern supply chains are complex and highly sensitive to disruptions.  
 This project analyzes **inventory performance, supplier delays, and demand forecasting gaps** using Microsoft Excel to deliver **actionable business insights**.  
@@ -14,7 +14,7 @@ The solution transforms raw operational data into a **decision-support dashboard
 
 ---
 
-## 🎯 Business Problem  
+ Business Problem  
 
 Companies often face:  
 - Excess inventory → **high holding costs**  
@@ -22,11 +22,11 @@ Companies often face:
 - Supplier delays → **operational disruptions**  
 - Poor forecasting → **inefficient planning**  
 
-👉 This project addresses these challenges using **data-driven analysis**.  
+This project addresses these challenges using **data-driven analysis**.  
 
 ---
 
-## 🛠️ Tools & Techniques  
+ Tools & Techniques  
 
 - **Microsoft Excel**  
   - Power Query (ETL: Extract, Transform, Load)  
@@ -37,11 +37,11 @@ Companies often face:
 
 ---
 
-## 🧱 Data Architecture (SQL-Style in Excel)  
+ Data Architecture (SQL-Style in Excel)  
 
 To replicate real-world data systems, a structured model was built:  
 
-### 🔹 Components:  
+ Components:  
 - **Raw_Data** → Source dataset (unchanged)  
 - **Cleaned_Data** → Processed & enriched data  
 - **Lookup Tables**:  
@@ -55,7 +55,7 @@ To replicate real-world data systems, a structured model was built:
 
 ---
 
-## 📊 Key KPIs  
+Key KPIs  
 
 | KPI | Description |
 |-----|------------|
@@ -70,8 +70,7 @@ To replicate real-world data systems, a structured model was built:
 | Days of Inventory | Stock holding duration |
 
 ---
-
-## 📈 Dashboard Features  
+Dashboard Features  
 
 - 📌 KPI summary cards (executive view)  
 - 📈 Revenue & Profit trend analysis  
@@ -84,17 +83,17 @@ To replicate real-world data systems, a structured model was built:
 
 ---
 
-## 🔍 Key Insights  
+Key Insights  
 
-- 📦 High inventory value indicates potential **overstocking and tied-up capital**  
-- 📉 Forecast accuracy (~45%) reveals **planning inefficiencies**  
-- 🚚 Delays are concentrated in specific suppliers, creating **operational risk**  
-- 💰 Profitability varies across products, highlighting **margin optimization opportunities**  
-- 🌍 Regional performance differences indicate **market and logistics gaps**  
+- High inventory value indicates potential **overstocking and tied-up capital**  
+- Forecast accuracy (~45%) reveals **planning inefficiencies**  
+- Delays are concentrated in specific suppliers, creating **operational risk**  
+-  Profitability varies across products, highlighting **margin optimization opportunities**  
+-  Regional performance differences indicate **market and logistics gaps**  
 
 ---
 
-## 💡 Business Recommendations  
+ Business Recommendations  
 
 - Optimize inventory levels to reduce excess stock  
 - Improve forecasting using historical demand patterns  
@@ -102,32 +101,32 @@ To replicate real-world data systems, a structured model was built:
 - Focus on high-margin products to improve profitability  
 - Strengthen supply chain resilience against disruptions  
 
-## 🧪 Project Workflow  
-## 🚀 Why This Project Stands Out  
+ Project Workflow  
+  Why This Project Stands Out  
 
-✔ End-to-end analytics workflow in Excel  
-✔ Real-world supply chain use case  
-✔ Strong focus on business impact (not just visuals)  
-✔ Structured data modeling (SQL-like approach)  
-✔ Interactive dashboard with actionable insights  
+End-to-end analytics workflow in Excel  
+ Real-world supply chain use case  
+ Strong focus on business impact (not just visuals)  
+ Structured data modeling (SQL-like approach)  
+ Interactive dashboard with actionable insights  
 Dashbord Imagess
 
 ---
 
-## 🚀 Why This Project Stands Out  
+Why This Project Stands Out  
 
-✔ End-to-end analytics workflow in Excel  
-✔ Real-world supply chain use case  
-✔ Strong focus on business impact (not just visuals)  
-✔ Structured data modeling (SQL-like approach)  
-✔ Interactive dashboard with actionable insights  
+End-to-end analytics workflow in Excel  
+ Real-world supply chain use case  
+ Strong focus on business impact (not just visuals)  
+ Structured data modeling (SQL-like approach)  
+ Interactive dashboard with actionable insights  
 
 
 ---
 
-## ⭐ Support  
+ Support  
 
 If you found this project useful:  
-👉 Star ⭐ this repository  
-👉 Share your feedback  
+Star ⭐ this repository  
+Share your feedback  
 
